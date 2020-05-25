@@ -1,0 +1,3 @@
+A HTML é uma linguagem de marcação para a criação de sites.
+Atualmente na versão 5, ela usa a semântica dos elementos para criar o conteúdo
+de uma pa´gina Web.Com a CSS, criamos as configurações visuais que um site vai ter.
